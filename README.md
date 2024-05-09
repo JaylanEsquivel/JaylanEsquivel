@@ -3,7 +3,7 @@
  
   _A lover of new technologies, I find it easy to learn new ones, I have good interpersonal communication and I always seek to update myself, currently I work with <img src="https://img.shields.io/badge/-PHP-blue" /> and <img src="https://img.shields.io/badge/-Mysql-orange" />, I have experience with databases: Mysql, Sql Server, postgresql and firebird, Other technologies and Framework: Docker, Jenkins, Laravel, Bootstrap, Quasar, Jquery , Html5, Css3, Sass, Less, JavaScript, Vue 3, React, Open Cart, SCRUM, Kanban, Phonegap/Cordova, Jquery Mobile, Nactive Script and IONIC, besides currently is studying <img src="https://img.shields.io/badge/-Dotnet-blueviolet" />._
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jaylanesquivel&theme=radical)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JaylanEsquivel&theme=radical)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jaylanesquivel&layout=compact&theme=radical)
 
 
