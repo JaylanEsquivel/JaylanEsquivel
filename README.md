@@ -57,6 +57,13 @@ _Currently I work with WEB system development with the php language._
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=007ACC)
 
+<br>
+<hr>
 
+<h3 align="center"> Profile Visitors </h3>
 
-
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/JaylanEsquivel/count.svg"
+  />
+</p>
